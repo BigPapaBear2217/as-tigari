@@ -9,7 +9,7 @@ Job de Traficant de Tigari de contrabanda pentru FiveM (vRP)
 
 [Inceput din 5p_pilotjob]([https://github.com/mariangXzyy/](https://github.com/5Point-Resources/5p_pilotjob))
 
-In arhiva aveti si scriptul de notificari
+In arhiva aveti si scriptul de notificari cat si mapping-ul.
 
 **⚠[ATENTIE] Trebuie sa aveti pe server rprogressbar!!!**
 
