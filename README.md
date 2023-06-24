@@ -13,5 +13,17 @@ In arhiva aveti si scriptul de notificari
 
 **⚠[ATENTIE] Trebuie sa aveti pe server rprogressbar!!!**
 
+_Lista iteme pentru inventar_
+
+> ["foita"] = {"Foita", "", nil, 0.1},
+
+> ["tutun"] = {"Tutun", "", nil, 0.1}, 
+
+> ["tigara"] = {"Tigara", "", nil, 0.15},
+
+> [ "pachet"] = {"Pachet de Tigari", "", nil, 0.2},
+
+> ["filter"] = {"Filtru","Filtru pentru ciuperci de tigara.", nil,0.2,"pocket"}
+
 ``> Buguri``
 * Momentan nu.
