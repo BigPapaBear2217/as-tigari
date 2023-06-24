@@ -7,7 +7,7 @@ Job de Traficant de Tigari de contrabanda pentru FiveM (vRP)
 
 **Jobul consta in cumpararea de tutun,foite si filtre pentru a produce tigari, pe care ulterior le impachetezi si primesti in inventar un pachet de tigari de contrabanda.**
 
-[Inceput din 5p_pilotjob]([https://github.com/mariangXzyy/](https://github.com/5Point-Resources/5p_pilotjob))
+[Inceput din 5p_pilotjob](https://github.com/5Point-Resources/5p_pilotjob)
 
 In arhiva aveti si scriptul de notificari cat si mapping-ul.
 
