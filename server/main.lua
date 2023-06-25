@@ -17,7 +17,7 @@ end)
 vRPCallback.RegisterServerCallback("tigari:iaiteme",function(source,cb)
 	local user_id = vRP.getUserId({source})
 	local player = vRP.getUserSource({user_id})
-	if vRP.hasGroup({user_id, "Traficant de Droguri"}) then
+	if vRP.hasGroup({user_id, "Traficant de Tigari"}) then
 		if vRP.tryGetInventoryItem({user_id,"tutun",20,false}) and vRP.tryGetInventoryItem({user_id,"foita",20,false}) and vRP.tryGetInventoryItem({user_id,"filter",20,false}) then
 			cb(true)
 		else
@@ -32,7 +32,7 @@ end)
 vRPCallback.RegisterServerCallback("pachet:iaiteme",function(source,cb)
 	local user_id = vRP.getUserId({source})
 	local player = vRP.getUserSource({user_id})
-	if vRP.hasGroup({user_id, "Traficant de Droguri"}) then
+	if vRP.hasGroup({user_id, "Traficant de Tigari"}) then
 		if vRP.tryGetInventoryItem({user_id,"tigara",20,false}) then
 			cb(true)
 		else
